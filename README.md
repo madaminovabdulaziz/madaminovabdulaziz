@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @madaminovabdulaziz
-- 👀 I’m interested in ML, DL
+- 👋 Hi, I’m Abdulaziz Madamio
+- 👀 I’m interested in ML, DL and AI
 - 🌱 I’m currently learning FastAPI and FLask
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... @adulaziz_madaminov - Telegram
