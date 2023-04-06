@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulaziz Madamio
+- 👋 Hi, I’m Abdulaziz Madaminov
 - 👀 I’m interested in ML, DL and AI
 - 🌱 I’m currently learning FastAPI and FLask
 - 💞️ I’m looking to collaborate on 
