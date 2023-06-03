@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, DL and AI
 - 🌱 I’m currently learning FastAPI and FLask
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... @abdulaziz_madaminov - Telegram.
+- 📫 How to reach me ... @abdulaziz_madaminov - Telegram., @abdulaziz_learner - Instagram
 
 <!---
 madaminovabdulaziz/madaminovabdulaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
