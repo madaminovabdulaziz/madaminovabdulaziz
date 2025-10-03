@@ -1,10 +1,39 @@
-- 👋 Hi, I’m Abdulaziz Madaminov
-- 👀 I’m interested in ML, DL and AI
-- 🌱 I’m currently learning FastAPI and FLask
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... @abdulaziz_madaminov - Telegram., @abdulaziz_learner - Instagram
+🚀 About Me
+I'm a software developer and entrepreneur from Uzbekistan 🇺🇿, currently building Airbridge - a modern flight aggregator platform designed to make booking flights simple, transparent, and affordable for Central Asian travelers.
 
-<!---
-madaminovabdulaziz/madaminovabdulaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛫 Founder & CEO at Airbridge
+💻 Backend developer passionate about travel tech
+🌍 Building solutions that connect Uzbekistan to the world
+🎯 Mission: Making travel accessible through technology
+📍 Based in Tashkent, Uzbekistan
+
+
+🌱 Currently Learning
+
+📚 Advanced system design and scalability
+🤖 Machine learning for travel recommendations
+💳 Payment gateway integrations
+☁️ Cloud infrastructure and DevOps
+📊 Data analytics and visualization
+
+💼 Open to
+
+🤝 Collaborating on travel tech projects
+💡 Innovative startup ideas in Central Asia
+🎓 Mentoring junior developers
+📢 Speaking opportunities about entrepreneurship & tech
+💰 Investment and partnership opportunities
+
+📫 Let's Connect!
+I'm always interested in connecting with:
+
+Fellow entrepreneurs and founders
+Developers passionate about travel tech
+Investors interested in Central Asian market
+Anyone who wants to make travel better
+
+Best ways to reach me:
+
+💼 LinkedIn: https://www.linkedin.com/in/abdulaziz-madaminov/
+📧 Email: abdulaziz@airbridge.uz
+
