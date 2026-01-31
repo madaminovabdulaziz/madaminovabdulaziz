@@ -1,8 +1,8 @@
 🚀 About Me
-I'm a software developer and entrepreneur from Uzbekistan 🇺🇿, currently building Airbridge - a modern flight aggregator platform designed to make booking flights simple, transparent, and affordable for Central Asian travelers.
+I'm a software developer and entrepreneur from Uzbekistan 🇺🇿, currently building SkySearch AI - a modern flight aggregator platform designed to make booking flights simple, transparent, and affordable for Central Asian travelers.
 
-🛫 Founder & CEO at Airbridge
-💻 Backend developer passionate about travel tech
+🛫 Founder & CEO at SkySearch
+💻 Backend developer passionate about travel tech and aviation
 🌍 Building solutions that connect Uzbekistan to the world
 🎯 Mission: Making travel accessible through technology
 📍 Based in Tashkent, Uzbekistan
