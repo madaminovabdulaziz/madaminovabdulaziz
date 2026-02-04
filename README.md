@@ -2,11 +2,11 @@
 
 **Backend Engineer | AI/ML Specialist | Aviation Tech Enthusiast**
 
-[cite_start]I am a Backend Engineer with 4+ years of experience building production-grade software, specifically in the aviation industry[cite: 2564]. [cite_start]I specialize in high-performance Python systems, asynchronous architectures, and multi-agent AI pipelines[cite: 2569, 2570].
+I am a Backend Engineer with 4+ years of experience building production-grade software, specifically in the aviation industry. I specialize in high-performance Python systems, asynchronous architectures, and multi-agent AI pipelines.
 
-- [cite_start]🚀 Currently leading **SkySearch** as CTO, building a multi-agent AI travel agent[cite: 2577, 2590].
-- [cite_start]✈️ Developed the crew management system for **Qanot Sharq Airlines**, serving ~200 crew across 25 destinations[cite: 2565, 2575].
-- [cite_start]🎓 BSc Computer Science student at **WIUT** (Transferred from **University of Roehampton, London**)[cite: 2595].
+🚀 Currently leading **SkySearch** as CTO, building a multi-agent AI travel agent
+✈️ Developed the crew management system for **Qanot Sharq Airlines**, serving ~200 crew across 25 destinations
+🎓 BSc Computer Science student at **WIUT** (Transferred from **University of Roehampton, London**)
 
 ---
 
@@ -19,26 +19,25 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-* [cite_start]**Backend:** FastAPI, Django, SQLAlchemy 2.0 (Async), Celery, Pydantic, Alembic [cite: 2569]
-* [cite_start]**AI/ML:** LangGraph, CrewAI, OpenAI GPT-4, RAG Pipelines, Qdrant (Vector DB) [cite: 2570, 2571]
-* [cite_start]**DevOps:** Docker, CI/CD, Railway, MinIO (S3) [cite: 2572]
+**Backend:** FastAPI, Django, SQLAlchemy 2.0 (Async), Celery, Pydantic, Alembic
+**AI/ML:** LangGraph, CrewAI, OpenAI GPT-4, RAG Pipelines, Qdrant (Vector DB)
+**DevOps:** Docker, CI/CD, Railway, MinIO (S3)
 
 ---
 
 ### 🚁 Key Projects
 
-* **Crew Layover Management (Qanot Sharq Airlines):** Replaced manual spreadsheets with a production system for 200+ crew members. [cite_start]Built an IRROPS module that cut rebooking time from 60 minutes to 15 minutes[cite: 2584, 2585].
-* [cite_start]**Avilingo (Aviation English Training):** A live platform with 300+ exercises and AI feedback, tested by captains of Uzbekistan Airways and other major carriers[cite: 2587, 2588].
-* [cite_start]**Online Exam Bot:** Served over 13,000 students for test preparation[cite: 2593].
-
+* **Crew Layover Management (Qanot Sharq Airlines):** Replaced manual spreadsheets with a production system for 200+ crew members. Built an IRROPS module that cut rebooking time from 60 minutes to 15 minutes.
+**Avilingo (Aviation English Training):** A live platform with 300+ exercises and AI feedback, tested by captains of Uzbekistan Airways and other major carriers.
+**Online Exam Bot:** Served over 13,000 students for test preparation.
 ---
 
 ### 🌍 Aviation Engagement & Beyond
 
-I am deeply passionate about aviation. [cite_start]Beyond coding, I have actual flight experience in a **Piper PA-28 Cherokee** and have attended major industry events like the **Farnborough Airshow 2024**[cite: 2597, 2599].
+I am deeply passionate about aviation. Beyond coding, I have actual flight experience in a **Piper PA-28 Cherokee** and have attended major industry events like the **Farnborough Airshow 2024**
 
-- [cite_start]🗣️ **Languages:** English (IELTS 7.0), Russian (Fluent), Uzbek (Native)[cite: 2602].
-- [cite_start]🏆 **Awards:** 1st Place Pizza Pitch (WIUT), Selected for UzCombinator Accelerator[cite: 2601].
+🗣️ **Languages:** English (IELTS 7.5), Russian (Fluent), Uzbek (Native)
+🏆 **Awards:** 1st Place Pizza Pitch (WIUT), Selected for UzCombinator Accelerator
 
 ---
 
