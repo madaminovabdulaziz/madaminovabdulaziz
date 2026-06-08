@@ -1,12 +1,9 @@
 # Hi, I'm Abdulaziz Madaminov 👋
 
-**Backend Engineer | AI/ML Specialist | Aviation Tech Enthusiast**
+**Backend Developer | Aviation Tech Enthusiast**
 
-I am a Backend Engineer with 4+ years of experience building production-grade software, specifically in the aviation industry. I specialize in high-performance Python systems, asynchronous architectures, and multi-agent AI pipelines.
+I am a Backend Developer with building production-grade software, specifically in the aviation industry. I specialize in high-performance Python systems, asynchronous architectures, and multi-agent AI pipelines.
 
-🚀 Currently leading **SkySearch** as CTO, building a multi-agent AI travel agent
-✈️ Developed the crew management system for **Qanot Sharq Airlines**, serving ~200 crew across 25 destinations
-🎓 BSc Computer Science student at **WIUT** (Transferred from **University of Roehampton, London**)
 
 ---
 
